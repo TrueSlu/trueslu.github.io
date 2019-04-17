@@ -1,7 +1,8 @@
 .hero {
     padding-right: 5% !important;
-    width: 85% !important;
+    width: 70% !important;
     padding-top: 5% !important;
+    padding-bottom: 5% !important;
 }
 
 .custom-header {
@@ -10,4 +11,9 @@
 
 .custom-right-side-feature-image {
     margin-top: 15%;
+}
+
+.custom-intro {
+    position: relative;
+    text-align: center;
 }
